@@ -255,6 +255,11 @@ const Chat = () => {
                     question: 'Is there a limit to how many slots I can book?',
                     answer: 'You can book up to 3 slots per week to ensure fair access for all students and staff.',
                   },
+<<<<<<< HEAD
+=======
+                  
+        
+>>>>>>> 0b21aaf (update chatbot)
                   
                 ].map((faq, index) => (
                   <div key={index} className="border-b border-gray-100 pb-4">
